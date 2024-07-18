@@ -3,7 +3,7 @@
 
 ## 📜 Overview
 
-Welcome to the definitive repository! This collection provides an extensive range of powerful cheats and mods designed to enhance your gameplay in Escape from Tarkov. Whether you're searching for ESP, unlimited ammo, or God mode, we offer the most effective hacks to elevate your gaming experience.
+Welcome to the definitive repository! This collection provides an extensive range of powerful cheats and mods designed to enhance your gameplay. Whether you're searching for ESP, unlimited ammo, or God mode, we offer the most effective hacks to elevate your gaming experience.
 
 ### 🛠️ Features
 
@@ -61,26 +61,7 @@ This project is thoroughly optimized for search engines with targeted keywords a
 
 ### 🔑 Keywords
 
->rust
-rust-macro
-rust-tools
-cheat-rust
-hack-rust
-rust-norecoil
-macros-rust
-rust-hacked
-rust-nospread
-rust-software
-rust-macros-download
-rust-mod
-rust-macros-2024
-download-rust-macros
-rust-macros-new
-rust-norecoil-hack
-rust-mouse-hack
-rust-auto-aim
-rust-utillities
-rust-download-new-cheats
+>
 
 ### 🔗 Backlinks and Internal Links
 
